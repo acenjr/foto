@@ -69,7 +69,7 @@ const Sidebar = () => {
                         alt="logo"
                         width={14}
                         height={14}
-                        className={`${isActive && "brightness-200"}`}
+                        className={`${isActive && "brightness-400"}`}
                       />
                       {link.label}
                     </Link>
