@@ -128,6 +128,7 @@ declare type TransformationFormProps = {
 };
 
 declare type TransformedImageProps = {
+  alt: string;
   image: any;
   type: string;
   title: string;
